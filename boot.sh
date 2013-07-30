@@ -5,7 +5,7 @@ THEME="$HOME/.config/sublime-text-2/Packages/User"
 
 cd $CWD
 
-if ! which spm > /dev/null; then
+if ! which sublime > /dev/null; then
     echo "install sublime-text-2"
     sudo add-apt-repository ppa:webupd8team/sublime-text-2
     sudo apt-get update
