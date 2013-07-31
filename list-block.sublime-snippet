@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui-list-block">
+    <div class="ui-list-block-item">
+        {$1}
+    </div>
+</div>
+]]></content>
+    <tabTrigger>chopper-ui-list-block</tabTrigger>
+    <description>chopper list</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>
