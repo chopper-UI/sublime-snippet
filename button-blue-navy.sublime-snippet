@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<button class="ui-btn ui-btn-navy-blue">
+    ${1}
+</button>
+]]></content>
+    <tabTrigger>chopper-ui-btn-navy-blue</tabTrigger>
+    <description>chopper button: navy blue style</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>
